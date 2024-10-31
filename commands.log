@@ -1,0 +1,50 @@
+    done
+git fetch --all
+git pull --all
+git git fetch upstream
+git fetch upstream
+git remote show origin
+git remote show upstream
+cd ..
+git clone https://github.com/thatusualguy/LR6
+cd LR6
+git log --help
+git log --all
+git diff git diff HEAD^ HEAD
+git diff HEAD^ HEAD
+git rm -r --cached .idea
+git diff b4a235d7b4d26b38e500f9b40d698dfe5ecc6a7b
+git diff @^
+git log
+git diff 20b6e510ca83ae8b9bfc0e6c2009138a887d51cc
+git checkout branch1
+git checkout master
+git branch -d
+git branch branch1
+git branch -d branch1
+git branch
+git add -a
+git diff
+git diff HEAD^
+git commit -m "Небольшое изменение"
+git add -A
+git diff HEAD
+git commit -m "Большое изменение"
+git revert HEAD^
+git revert HEAD
+git diff HEAD~1
+git branch --help
+git branch report
+git checkout report
+git log --pretty=format:"%h + %cd + %an + %s"
+git config --global push.autoSetupRemote = True
+git config --global push.autoSetupRemote = true
+git config --global push.autoSetupRemote true
+git push --set-upstream origin report
+git config --global push.autoSetupRemote
+git config --global push.autoSetupRemote True
+git push
+git push -a
+git push --all
+doskey /history > somefile.txt
+doskey /history > commands.log
