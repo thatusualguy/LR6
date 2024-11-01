@@ -90,5 +90,6 @@ git branch report
 git checkout report
 git log --pretty=format:"%h + %cd + %an + %s"
 git push --all
-doskey /history > commands.log
+git push origin -d branch1
+doskey /history > commands.log # выгрузка истории команд из CMD
 ```
